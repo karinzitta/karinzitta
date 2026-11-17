@@ -19,27 +19,28 @@ Cinco anos escrevendo software que vai pra produção — do front à infra. Gos
 O **Kezz** nasceu de um incômodo: a IA estava presa num lugar só. É um ecossistema onde a IA é a integração e trabalha por mim.
 
 - **Kezz Board** — fala MCP. A IA cria nota, tarefa, coluna, cartão e seta sozinha.
-- **Servidor em Rust** — conta, sessão, sync e deploy.
+- **Backend e auth** — conta, sessão, sync e deploy.
 - **DNS e ameaças** — servidor próprio alimentando o dashboard.
 - **Fala com todos os apps** — memória, ferramentas, e me avisa no chat quando termina trabalho autônomo. Controla o telefone e os notebooks.
 
-Stack: **Rust · Tauri + Vue · MCP · SQLite**.
+Stack: **Node.js · TypeScript · Vue · Tauri · MCP · SQLite**.
 
 ### stack
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-ff3d8a?style=flat-square&logo=rust&logoColor=white&labelColor=0b0610">
+  <img src="https://img.shields.io/badge/Node.js-ff3d8a?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/TypeScript-ff3d8a?style=flat-square&logo=typescript&logoColor=white&labelColor=0b0610">
+  <img src="https://img.shields.io/badge/NestJS-ff3d8a?style=flat-square&logo=nestjs&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/React-ff3d8a?style=flat-square&logo=react&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/Next.js-ff3d8a?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/Vue-ff3d8a?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=0b0610">
-  <img src="https://img.shields.io/badge/NestJS-ff3d8a?style=flat-square&logo=nestjs&logoColor=white&labelColor=0b0610">
-  <img src="https://img.shields.io/badge/Python-ff3d8a?style=flat-square&logo=python&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/PostgreSQL-ff3d8a?style=flat-square&logo=postgresql&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/AWS-ff3d8a?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0b0610">
-  <img src="https://img.shields.io/badge/Tauri-ff3d8a?style=flat-square&logo=tauri&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/Docker-ff3d8a?style=flat-square&logo=docker&logoColor=white&labelColor=0b0610">
+  <img src="https://img.shields.io/badge/Python-ff3d8a?style=flat-square&logo=python&logoColor=white&labelColor=0b0610">
   <img src="https://img.shields.io/badge/Linux-ff3d8a?style=flat-square&logo=linux&logoColor=white&labelColor=0b0610">
+  <img src="https://img.shields.io/badge/Tauri-ff3d8a?style=flat-square&logo=tauri&logoColor=white&labelColor=0b0610">
+  <img src="https://img.shields.io/badge/Rust-ff3d8a?style=flat-square&logo=rust&logoColor=white&labelColor=0b0610">
 </p>
 
 ### em que sou boa
