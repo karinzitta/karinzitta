@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://karinzitta.dev"><img src="https://img.shields.io/badge/portfolio-karinzitta.dev-ff3d8a?style=flat-square&labelColor=0b0610" alt="portfolio"></a>
   <a href="https://linkedin.com/in/karinzitta"><img src="https://img.shields.io/badge/linkedin-karinzitta-ff3d8a?style=flat-square&labelColor=0b0610" alt="linkedin"></a>
-  <a href="mailto:hikarin.elizabeth@gmail.com"><img src="https://img.shields.io/badge/email-hikarin.elizabeth@gmail.com-ff3d8a?style=flat-square&labelColor=0b0610" alt="email"></a>
+  <a href="mailto:karin@karinzitta.dev"><img src="https://img.shields.io/badge/email-karin@karinzitta.dev-ff3d8a?style=flat-square&labelColor=0b0610" alt="email"></a>
 </p>
 
 ---
