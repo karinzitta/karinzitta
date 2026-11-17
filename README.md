@@ -19,11 +19,11 @@ Cinco anos escrevendo software que vai pra produção — do front à infra. Gos
 O **Kezz** nasceu de um incômodo: a IA estava presa num lugar só. É um ecossistema onde a IA é a integração e trabalha por mim.
 
 - **Kezz Board** — fala MCP. A IA cria nota, tarefa, coluna, cartão e seta sozinha.
-- **Backend e auth** — conta, sessão, sync e deploy.
+- **Servidor em Rust** — conta, sessão, sync e deploy, enxuto de memória pra rodar num servidor extremamente barato.
 - **DNS e ameaças** — servidor próprio alimentando o dashboard.
 - **Fala com todos os apps** — memória, ferramentas, e me avisa no chat quando termina trabalho autônomo. Controla o telefone e os notebooks.
 
-Stack: **Node.js · TypeScript · Vue · Tauri · MCP · SQLite**.
+Stack: **Rust · TypeScript · Vue · Tauri · MCP · SQLite**.
 
 ### stack
 
