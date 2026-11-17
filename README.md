@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Karin Elizabeth — dev full-stack sênior · construo o Kezz" width="100%">
+  <img src="assets/banner.png" alt="Karin Elizabeth — engenheira full-stack sênior · construo o Kezz" width="100%">
 </p>
 
-<h3 align="center">dev full-stack sênior · construo o <b>Kezz</b></h3>
+<h3 align="center">engenheira full-stack sênior · construo o <b>Kezz</b></h3>
 
 <p align="center">
   <a href="https://karinzitta.dev"><img src="https://img.shields.io/badge/portfolio-karinzitta.dev-ff3d8a?style=flat-square&labelColor=0b0610" alt="portfolio"></a>
